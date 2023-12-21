@@ -1,0 +1,22 @@
+int a = 5;
+int b = 10;
+a = b;   //comment 1
+val = a < b;
+//this is last comment
+
+
+/* input.txt
+  //program to calculate sum
+  #include<stdio.h>
+  int main(){
+  /* hello
+  declare variables
+  hello */   
+  /*
+  int a=3,b=2,sum;
+  //calculate sum
+  sum = a+b;
+  printf("Sum: %d",sum);
+  }
+*/
+/* hihiih*/
